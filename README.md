@@ -1,6 +1,4 @@
 # WebTemplate
-A simple and beautiful web template.
-
-This template can be used for blogs or personal websites.
+A preview of the WebTemplate repository.
 
 Developed by [@pietrogambatesa](https://twitter.com/pietrogambatesa)
